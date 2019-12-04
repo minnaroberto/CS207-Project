@@ -6,17 +6,19 @@
 
 #include <Servo.h>
 
-Servo servo1;
-Servo servo2;
+Servo servo1; //servo to control the x-axis
+Servo servo2; //servo to control the y-axis
 
-int joyX = 1;
-int joyY = 0;
-int joyVal;
+int joyX = 1; //joystick controlling x-axis wired to analog 1
+int joyY = 0; //joystick controlling y-axis wired to analog 0
+int joyVal; //degree of the joystick being moved
 
+//leds and their assigned pins
 const int led1 = 1;
 const int led2 = 2; 
 const int led2 = 4; 
 
+//magnet sensors and their assigned pins
 const int sensor1 = 6;
 const int sensor2 = 7;
 const int sensor3 = 8; 
@@ -28,8 +30,8 @@ int checkpoint3;
 
 void setup() {
 
-  servo1.attach(3);
-  servo2.attach(5);
+  servo1.attach(3); //attach the servo to pin 3
+  servo2.attach(5); //attach the servo to pin 5
 
   pinMode(sensor1, INPUT_PULLUP);
   pinMode(sensor2, INPUT_PULLUP);
@@ -51,7 +53,6 @@ void loop() {
   
     delay(15);
 
-
     checkpoint1 = digitalRead(sensor1); 
     checkpoint2 = digitalRead(sensor2);
     checkpoint3 = digitalRead(sensor3);
@@ -66,18 +67,18 @@ void loop() {
   
     //check if a magnet sensor is in contact with a magnet
     if (checkpoint2 == LOW){
-      digitalWrite(led2, HIGH);
+      digitalWrite(led2, HIGH); //turn an led on
     }
     else{
-     digitalWrite(led2, LOW);
+     digitalWrite(led2, LOW); //led is off
     }
   
     //check if a magnet sensor is in contact with a magnet
     if (checkpoint3 == LOW){
-      digitalWrite(led3, HIGH);
+      digitalWrite(led3, HIGH); //turn an led on
     }
     else{
-      digitalWrite(led3, LOW);
+      digitalWrite(led3, LOW); //led is off  
     }
     delay(200);
 }
