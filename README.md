@@ -36,4 +36,35 @@ List of Materials Needed:
 
 ## Build
 
-1. Design the 
+1. Design the dimensions for the cardboard pices as shown below.
+
+![final maze game build](images/dimensions.jpg)
+
+Also make rectangular pieces that will be the walls inside the maze.
+The 27cm x 27cm piece will be the base of the maze. 
+The four 27cm x 2cm pieces will be the outer walls of the maze
+The four 29cm x 4cm pieces will be the square that control the x-axis
+The two large pieces with a base width of 24cm will be the left and right walls to hold up the maze.
+
+
+2. Plan out the areas where you want the magnetic sensors and magnets to go. 
+
+
+Cut three lines so that the cardboard can lift up.
+
+3. Begin hot gluing the pieces together. 
+
+4. Cut out a square large enough to fit a servo motor in the left wall and the top edge of the x-axis square. Then hot glue the servos into place.
+
+5. Hot glue the motors spinners. One onto the left edge of the x-axis square, and the other on the top edge of the outer wall of the maze.
+
+6. Wire the magnet sensors
+
+7. Hot glue the magnet sensors and magnets into their respective places. 
+
+8. Attach the x-axis square and maze so that the walls are holding them up.
+
+9. Follow the schematic to set up the hardware. 
+
+
+
