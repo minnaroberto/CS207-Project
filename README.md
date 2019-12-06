@@ -49,46 +49,63 @@ Extra rectangular pieces can be cut out to serve as the walls inside the maze.
 
 
 2. Plan out the areas where you want the magnetic sensors and magnets to go. 
+
 ![plan magnet placement](images/magnet_placement.jpg)
 
 Cut three lines so that the cardboard can lift up.
+
 ![magnet flaps](images/cut_magnet_flaps.jpg)
 
 3. Begin hot gluing the pieces together. 
 
 Glue the four 27cm x 2cm pieces to the walls of the maze
+
 ![outer maze walls](images/maze_outer_walls.jpg)
 
 Glue the inner walls of the maze.
+
 ![inner maze walls](images/maze_inner_walls.jpg)
 
 Glue the four 29cm x 4cm pieces together to form a square
+
 ![x-axis square](images/s_axis_square.jpg)
 
 4. Cut out a square large enough to fit a servo motor in the left wall and the top edge of the x-axis square. Then hot glue the servos into place.
+
 ![y-axis servo motor1](images/y_axis_servo.jpg)
+
 ![y-axis servo motor2](images/y_axis_servo2.jpg)
+
 ![x-axis servo motor](images/x_axis_servo.jpg)
 
 5. Hot glue the motors spinners. One onto the left edge of the x-axis square, and the other on the top edge of the outer wall of the maze.
+
 ![y-axis servo motor spinner](images/y_axis_servo_spinner.jpg)
+
 ![x-axis servo motor spinner](images/x_axis_servo_spinner.jpg)
 
 6. Wire the magnet sensors
+
 ![magnet sensor wires](images/magnet_sensor_wires.jpg)
 
 7. Hot glue the magnet sensors and magnets into their respective places. 
+
 ![magnet sensors attached](images/magnet_sensors_attached.jpg)
 
 8. Attach the x-axis square and maze so that the walls are holding them up.
+
 ![x-axis square attached](images/x_axis_square_attached.jpg)
+
 ![maze attached](images/maze_attached.jpg)
 
 9. Follow the schematic to set up the hardware. 
+
 ![hardware schematic](images/ProjectSketch_schem.jpg)
 
 The result should look something like this
+
 ![final hardware build1](images/HardwareBuild1.jpg)
+
 ![final hardware build2](images/HardwareBuild2.jpg)
 
 ## Usage
