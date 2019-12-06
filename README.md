@@ -83,5 +83,5 @@ Minna Roberto - created the entire project
 
 ## Credits
 
-Ahmed Azouz - user on Arduino.cc who created the Arduino Marble Maze Labyrinth project, which was the base concept of this project 
+Ahmed Azouz - user on Arduino.cc who created the Arduino Marble Maze Labyrinth project, which was the base concept of this project (https://create.arduino.cc/projecthub/AhmedAzouz/arduino-marble-maze-labyrinth-bd9ea6)
 
