@@ -67,4 +67,14 @@ Cut three lines so that the cardboard can lift up.
 9. Follow the schematic to set up the hardware. 
 
 
+## Usage
+
+Here's how to use the project:
+1. Upload the provided code to the Arduino
+2. Place the marble into your start position
+3. begin moving the maze by using the joystick to move left, right, up, or down
+4. try to get all the flaps pushed down. 
+5. when a flap is successfully pushed down, an LED will light up
+6. when all of the flaps are pushed down the game is completed
+
 
