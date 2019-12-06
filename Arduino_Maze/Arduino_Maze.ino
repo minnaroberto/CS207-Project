@@ -16,7 +16,7 @@ int joyVal; //degree of the joystick being moved
 //leds and their assigned pins
 const int led1 = 1;
 const int led2 = 2; 
-const int led2 = 4; 
+const int led3 = 4; 
 
 //magnet sensors and their assigned pins
 const int sensor1 = 6;
