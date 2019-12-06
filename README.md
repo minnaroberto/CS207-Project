@@ -77,4 +77,11 @@ Here's how to use the project:
 5. when a flap is successfully pushed down, an LED will light up
 6. when all of the flaps are pushed down the game is completed
 
+## Team 
+
+Minna Roberto - created the entire project
+
+## Credits
+
+Ahmed Azouz - user on Arduino.cc who created the Arduino Marble Maze Labyrinth project, which was the base concept of this project 
 
