@@ -7,3 +7,13 @@ When a player successfully closes this flap a magnet sensor will sense the magne
 
 
 
+## Contents
+
+* /src
+* /hardware
+* /img
+* /build
+* /LICENSE
+* /README.md
+
+
