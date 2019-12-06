@@ -17,3 +17,20 @@ When a player successfully closes this flap a magnet sensor will sense the magne
 * /README.md
 
 
+## Materials
+
+List of Materials Needed:
+
+* Arduino Uno x1
+* Breadboard x1
+* SG90 Servo Motors x2
+* joystick modulo x1
+* magnetic contact door sensors x3
+* Green LED x3
+* 560 Ohms resistors x3
+* marble x1
+* wires
+* screws x2
+* hot glue gun and hot glue
+* sharp blade knife
+
