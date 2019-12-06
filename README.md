@@ -12,7 +12,7 @@ When a player successfully closes this flap a magnet sensor will sense the magne
 * /src
 * /hardware
 * /img
-* /build
+* /Arduino_Maze - the build file for the project
 * /LICENSE
 * /README.md
 
