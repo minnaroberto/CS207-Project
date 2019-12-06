@@ -68,7 +68,7 @@ Glue the inner walls of the maze.
 
 Glue the four 29cm x 4cm pieces together to form a square
 
-![x-axis square](images/s_axis_square.jpg)
+![x-axis square](images/x_axis_square.jpg)
 
 4. Cut out a square large enough to fit a servo motor in the left wall and the top edge of the x-axis square. Then hot glue the servos into place.
 
@@ -88,7 +88,7 @@ Glue the four 29cm x 4cm pieces together to form a square
 
 ![magnet sensor wires](images/magnet_sensor_wires.jpg)
 
-7. Hot glue the magnet sensors and magnets into their respective places. 
+7. Hot glue the magnets under the flap, and hot glue magnet sensors under the maze so that they are about 2cm away from the magnet when the flap is closed. 
 
 ![magnet sensors attached](images/magnet_sensors_attached.jpg)
 
