@@ -32,6 +32,7 @@ List of Materials Needed:
 * screws x2
 * hot glue gun and hot glue
 * sharp blade knife
+* cardboard
 
 ## Build
 
