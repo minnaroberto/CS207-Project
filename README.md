@@ -9,10 +9,9 @@ When a player successfully closes this flap a magnet sensor will sense the magne
 
 ## Contents
 
-* /src
-* /hardware
-* /images
-* /Arduino_Maze - the build file for the project
+* /hardware - list of hardware used 
+* /images - images for how to build the project
+* /Arduino_Maze - the file to run the project
 * /LICENSE
 * /README.md
 
@@ -125,4 +124,6 @@ Minna Roberto - created the entire project
 ## Credits
 
 Ahmed Azouz - user on Arduino.cc who created the Arduino Marble Maze Labyrinth project, which was the base concept of this project (https://create.arduino.cc/projecthub/AhmedAzouz/arduino-marble-maze-labyrinth-bd9ea6)
+
+Mert Arduino on YouTube. This user's code was a reference used for getting the joystick to move the servo motors. (https://www.youtube.com/watch?v=kA_pbMR6jVs)
 
